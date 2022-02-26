@@ -1,11 +1,12 @@
 # Pentesting Learning Resources
-Here, I have a curated list for learning and exploring the world of Pentesting. This is for everyone and anyone who need's a headsup, or wants to get more clearer on certain topics. 
-
-Also, don't forget to check out my [blog](https://jeenika.com) feet or say hi on my [Twitter](https://twitter.com/j33n1k4)!
+Here, I have a created curated list for learning and exploring the world of Pentesting. This is for everyone and anyone who need's a headsup, or wants to get more clearer on certain topics. 
 
 Also play [CTF's](https://github.com/apsdehal/awesome-ctf) as they allow you to utilize your hacking skills legally in a more controlled and protected environment.
 
 Also, I highly recommend to start by reading a article asking a question: [So you want to be a web security researcher?](https://portswigger.net/research/so-you-want-to-be-a-web-security-researcher)
+
+Also, don't forget to check out my [blog](https://jeenika.com) feet or say hi on my [Twitter](https://twitter.com/j33n1k4)!
+
 * * *
 # Web Application
 1. [TryHackMe](https://tryhackme.com/) 
